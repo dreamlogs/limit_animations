@@ -1,6 +1,6 @@
 # limit_animations
 A variety of Calculus limit-based animations.
 
-[Motion Tracking done in Blender]
+[Motion Tracking, Animation used to understand calculus based limits in relation to a function of f(x).]
+{Pick up on visual interaction]
 
-[2D Animation & Panning done in Adobe After Effects 2026]
