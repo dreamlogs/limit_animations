@@ -4,8 +4,8 @@
 
 
 
-[Motion Tracking, Animation used to understand calculus based limits in relation to a function of f(x).]
+[Motion Tracking, animation used to understand calculus based limits in relation to a function of f(x).]
 
 
-{Pick up on visual interaction]
+{Pick up with creating visual demonstrations]
 
